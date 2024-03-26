@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronal Shoey George</h1>
+<h1 align="center">rolansy</h4>
 <h3 align="center">An Aspiring Data Scientist and Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rolansy&label=Profile%20views&color=0e75b6&style=flat" alt="rolansy" /> </p>
