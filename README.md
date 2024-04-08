@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rolansy&label=Profile%20views&color=0e75b6&style=flat" alt="rolansy" /> </p>
 
-- 🧑‍💻🍜 I’m currently learning **to cook code**
+- 🧑‍💻🍜 wanna **to cook code**
 
-- 💬 Ask me about Data Structures and Algorithms **python**
+- 💬 Ask me Data Structures and Algorithms stuff on **python**
 
 - 📫 How to reach me **ronalshoeygeorge@gmail.com**
 
