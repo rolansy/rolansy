@@ -26,4 +26,4 @@ jobs:
         run: python update_readme.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: your_github_username
+          GITHUB_USERNAME: rolansy
