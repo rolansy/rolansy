@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rolansy&label=Profile%20views&color=0e75b6&style=flat" alt="rolansy" /> </p>
 
-- 🧑‍💻🍜 wanna **to cook code**
+- 🧑‍💻🍜 wanna **cook code**
 
 - 💬 Ask me Data Structures and Algorithms stuff on **python**
 
